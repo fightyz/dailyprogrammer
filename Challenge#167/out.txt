@@ -1,0 +1,22 @@
+==> Downloading https://downloads.sf.net/project/machomebrew/Bottles/python-2.7.6_1.mavericks.bottle.tar.gz
+Already downloaded: /Library/Caches/Homebrew/python-2.7.6_1.mavericks.bottle.tar.gz
+==> Pouring python-2.7.6_1.mavericks.bottle.tar.gz
+==> Caveats
+Setuptools and Pip have been installed. To update them
+  pip install --upgrade setuptools
+  pip install --upgrade pip
+
+You can install Python packages with
+  pip install <package>
+
+They will install into the site-package directory
+  /usr/local/lib/python2.7/site-packages
+
+See: https://github.com/Homebrew/homebrew/wiki/Homebrew-and-Python
+
+.app bundles were installed.
+Run `brew linkapps` to symlink these to /Applications.
+==> /usr/local/Cellar/python/2.7.6_1/bin/python -s setup.py --no-user-cfg install --force --verbose --install-scripts=/usr/local/Cellar/python/2.7.6_1/bin --install-lib=/usr/local/lib/python2.7/site-packages
+==> /usr/local/Cellar/python/2.7.6_1/bin/python -s setup.py --no-user-cfg install --force --verbose --install-scripts=/usr/local/Cellar/python/2.7.6_1/bin --install-lib=/usr/local/lib/python2.7/site-packages
+==> Summary
+🍺  /usr/local/Cellar/python/2.7.6_1: 4907 files, 80M
